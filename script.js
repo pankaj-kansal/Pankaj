@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Sachi jaan 🥹",
+    "M aapko psnd nhi hu 🥹🥹",
+    "Please babu 🥹",
+    "Haan boldo na 🥹🥹",
+    "Ek bar socho toh, m acha ladka hu 🥹🥹",
+    "M rone lag jaunga 😭😭",
+    "Last bar puch raha hu 🥹 haan boldo 🥹🥹",
+    "Please haan bolo na 🥹 khush rakhunga aapko 😊😊",
+    "Final wala last time babu 🥹, aapko kabhi tang nhi karunga fir 🥹🥹",
+    "Suno na 🥹 please haan kardo jaan 🥹🥹"
 ];
 
 let messageIndex = 0;
